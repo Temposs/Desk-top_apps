@@ -1,0 +1,10 @@
+C:\Users\pdend\source\repos\IP subnet calculator\IP subnet calculator\bin\Debug\IP subnet calculator.exe.config
+C:\Users\pdend\source\repos\IP subnet calculator\IP subnet calculator\bin\Debug\IP subnet calculator.exe
+C:\Users\pdend\source\repos\IP subnet calculator\IP subnet calculator\bin\Debug\IP subnet calculator.pdb
+C:\Users\pdend\source\repos\IP subnet calculator\IP subnet calculator\obj\Debug\IP subnet calculator.csprojAssemblyReference.cache
+C:\Users\pdend\source\repos\IP subnet calculator\IP subnet calculator\obj\Debug\IP_subnet_calculator.Form1.resources
+C:\Users\pdend\source\repos\IP subnet calculator\IP subnet calculator\obj\Debug\IP_subnet_calculator.Properties.Resources.resources
+C:\Users\pdend\source\repos\IP subnet calculator\IP subnet calculator\obj\Debug\IP subnet calculator.csproj.GenerateResource.cache
+C:\Users\pdend\source\repos\IP subnet calculator\IP subnet calculator\obj\Debug\IP subnet calculator.csproj.CoreCompileInputs.cache
+C:\Users\pdend\source\repos\IP subnet calculator\IP subnet calculator\obj\Debug\IP subnet calculator.exe
+C:\Users\pdend\source\repos\IP subnet calculator\IP subnet calculator\obj\Debug\IP subnet calculator.pdb

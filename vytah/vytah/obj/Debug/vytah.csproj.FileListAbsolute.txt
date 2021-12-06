@@ -1,0 +1,20 @@
+C:\Users\pdend\source\repos\vytah\vytah\obj\Debug\vytah.csprojAssemblyReference.cache
+C:\Users\pdend\source\repos\vytah\vytah\obj\Debug\vytah.Form1.resources
+C:\Users\pdend\source\repos\vytah\vytah\obj\Debug\vytah.Properties.Resources.resources
+C:\Users\pdend\source\repos\vytah\vytah\obj\Debug\vytah.csproj.GenerateResource.cache
+C:\Users\pdend\source\repos\vytah\vytah\obj\Debug\vytah.csproj.CoreCompileInputs.cache
+C:\Users\pdend\source\repos\vytah\vytah\bin\Debug\vytah.exe.config
+C:\Users\pdend\source\repos\vytah\vytah\bin\Debug\vytah.exe
+C:\Users\pdend\source\repos\vytah\vytah\bin\Debug\vytah.pdb
+C:\Users\pdend\source\repos\vytah\vytah\obj\Debug\vytah.exe
+C:\Users\pdend\source\repos\vytah\vytah\obj\Debug\vytah.pdb
+D:\asus zaloha\projekty\mvs\projekty\vytah\vytah\bin\Debug\vytah.exe.config
+D:\asus zaloha\projekty\mvs\projekty\vytah\vytah\bin\Debug\vytah.exe
+D:\asus zaloha\projekty\mvs\projekty\vytah\vytah\bin\Debug\vytah.pdb
+D:\asus zaloha\projekty\mvs\projekty\vytah\vytah\obj\Debug\vytah.csproj.AssemblyReference.cache
+D:\asus zaloha\projekty\mvs\projekty\vytah\vytah\obj\Debug\vytah.Form1.resources
+D:\asus zaloha\projekty\mvs\projekty\vytah\vytah\obj\Debug\vytah.Properties.Resources.resources
+D:\asus zaloha\projekty\mvs\projekty\vytah\vytah\obj\Debug\vytah.csproj.GenerateResource.cache
+D:\asus zaloha\projekty\mvs\projekty\vytah\vytah\obj\Debug\vytah.csproj.CoreCompileInputs.cache
+D:\asus zaloha\projekty\mvs\projekty\vytah\vytah\obj\Debug\vytah.exe
+D:\asus zaloha\projekty\mvs\projekty\vytah\vytah\obj\Debug\vytah.pdb

@@ -1,0 +1,20 @@
+C:\Users\pdend\source\repos\lepsia kalkulacka\lepsia kalkulacka\bin\Debug\lepsia kalkulacka.exe.config
+C:\Users\pdend\source\repos\lepsia kalkulacka\lepsia kalkulacka\bin\Debug\lepsia kalkulacka.exe
+C:\Users\pdend\source\repos\lepsia kalkulacka\lepsia kalkulacka\bin\Debug\lepsia kalkulacka.pdb
+C:\Users\pdend\source\repos\lepsia kalkulacka\lepsia kalkulacka\obj\Debug\lepsia kalkulacka.csprojAssemblyReference.cache
+C:\Users\pdend\source\repos\lepsia kalkulacka\lepsia kalkulacka\obj\Debug\lepsia_kalkulacka.Properties.Resources.resources
+C:\Users\pdend\source\repos\lepsia kalkulacka\lepsia kalkulacka\obj\Debug\lepsia kalkulacka.csproj.GenerateResource.cache
+C:\Users\pdend\source\repos\lepsia kalkulacka\lepsia kalkulacka\obj\Debug\lepsia kalkulacka.csproj.CoreCompileInputs.cache
+C:\Users\pdend\source\repos\lepsia kalkulacka\lepsia kalkulacka\obj\Debug\lepsia kalkulacka.exe
+C:\Users\pdend\source\repos\lepsia kalkulacka\lepsia kalkulacka\obj\Debug\lepsia kalkulacka.pdb
+C:\Users\pdend\source\repos\lepsia kalkulacka\lepsia kalkulacka\obj\Debug\lepsia_kalkulacka.Form1.resources
+D:\asus zaloha\projekty\mvs\projekty\lepsia kalkulacka\lepsia kalkulacka\bin\Debug\lepsia kalkulacka.exe.config
+D:\asus zaloha\projekty\mvs\projekty\lepsia kalkulacka\lepsia kalkulacka\bin\Debug\lepsia kalkulacka.exe
+D:\asus zaloha\projekty\mvs\projekty\lepsia kalkulacka\lepsia kalkulacka\bin\Debug\lepsia kalkulacka.pdb
+D:\asus zaloha\projekty\mvs\projekty\lepsia kalkulacka\lepsia kalkulacka\obj\Debug\lepsia kalkulacka.csproj.AssemblyReference.cache
+D:\asus zaloha\projekty\mvs\projekty\lepsia kalkulacka\lepsia kalkulacka\obj\Debug\lepsia_kalkulacka.Form1.resources
+D:\asus zaloha\projekty\mvs\projekty\lepsia kalkulacka\lepsia kalkulacka\obj\Debug\lepsia_kalkulacka.Properties.Resources.resources
+D:\asus zaloha\projekty\mvs\projekty\lepsia kalkulacka\lepsia kalkulacka\obj\Debug\lepsia kalkulacka.csproj.GenerateResource.cache
+D:\asus zaloha\projekty\mvs\projekty\lepsia kalkulacka\lepsia kalkulacka\obj\Debug\lepsia kalkulacka.csproj.CoreCompileInputs.cache
+D:\asus zaloha\projekty\mvs\projekty\lepsia kalkulacka\lepsia kalkulacka\obj\Debug\lepsia kalkulacka.exe
+D:\asus zaloha\projekty\mvs\projekty\lepsia kalkulacka\lepsia kalkulacka\obj\Debug\lepsia kalkulacka.pdb
